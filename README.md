@@ -25,6 +25,6 @@ I love tackling tough problems and finding unique solutions that push projects f
 - Signal Processing
 - Speech Technology
 - Conversational AI
-- Large Language Models (LLMs)
+- Machine Learning
 
 Feel free to hit me up!
