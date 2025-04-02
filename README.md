@@ -1,7 +1,7 @@
-# Hello 👋
-You can call me Harsha!
+# Hello
+I'm Harsha!
 
-I'm a PhD student passionate about **machine learning**, **signal processing**, **speech technology**, **conversational AI**, and **LLM applications**. My work focuses on solving challenging problems and pushing the boundaries of innovation.
+I'm a PhD student learning and researching about **machine learning**, **signal processing**, **speech technology**, **conversational AI**, and **LLM applications**. My work focuses on conversational AI.
 
 ## Current Research
 I'm exploring **enchronic speech dynamics** using **self-supervised learning** and working on **bias detection in conversational AI**. Enchrony involves studying:
